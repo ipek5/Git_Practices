@@ -1,7 +1,8 @@
-this is my git practice
+This is my git practice.
 
-i am trying to learn git
+I am trying to learn git.
 
-this is my first time
+This is my first time.
 
 I am trying to find a way to upload my files
+I did it!
