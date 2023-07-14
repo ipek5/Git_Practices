@@ -1,5 +1,5 @@
-Hello
+Hello!
 
-This is the third line
+This is the third line.
 
-I am practicing git every day
+I am practicing git every day.
